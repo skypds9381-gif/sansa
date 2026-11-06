@@ -1,0 +1,6 @@
+{
+  "name": "온라인 사찰 산사 (SANSA) - 가상 법당 & 제작 가이드",
+  "description": "하루 10만 명이 찾은 온라인 절 산사의 기획 분석, AI 바이브 코딩 제작 정리 및 목탁·108배·연등소원 가상 법당",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
